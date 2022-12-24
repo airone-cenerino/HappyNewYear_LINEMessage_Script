@@ -1,0 +1,2 @@
+# HappyNewYear_LINEMessage_Script
+複数人に対して自動で同時にLINEメッセージを送信することができます。
